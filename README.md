@@ -24,6 +24,9 @@ Calculates the winner of an election using an 'instant-runoff' algorithm, a rank
 
 >Alice
 
+Completed in part of Harvard's [CS50 - Introduction to Computer Science, 2020](https://cs50.harvard.edu/x/2020/)
+This was pset 3: [Runoff](https://cs50.harvard.edu/x/2020/psets/3/runoff/)
+
 ### Background
 In a ranked-choice system, voters can vote for more than one candidate. Instead of just voting for their top choice, they can rank the candidates in order of preference. 
 Each voter, in addition to specifying their first preference candidate, can also indicated their second and third choices. This system account can account for a tied elections and can calculate a winner.
